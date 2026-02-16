@@ -1,4 +1,4 @@
-# 📖 Power Roleplay — Complete Staff Guide
+# 📖 Power Website — Complete Staff Guide
 
 > **Website:** [https://powerroleplay.net](https://powerroleplay.net)  
 > **FiveM Server:** [cfx.re/join/opvd97](https://cfx.re/join/opvd97)  
